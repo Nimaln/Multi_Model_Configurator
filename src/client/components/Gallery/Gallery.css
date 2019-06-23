@@ -13,11 +13,11 @@
   border-radius: 5px;
   box-shadow: 1px 1px 5px 1px lightgray;
   height: auto;
-  max-width: 100%; }
+  max-width: 20%; }
 
 .forge-gallery .tile .tile-title {
   bottom: 0;
-  width: calc(100%);
+  width: calc(20%);
   background-color: rgba(80, 80, 80, 0.5);
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;

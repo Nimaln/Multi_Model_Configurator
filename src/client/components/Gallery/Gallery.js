@@ -26,22 +26,22 @@ import './Gallery.css';
 
 const tilesData = [
   {
-    img: 'images/wall-ac-unit-one.png',
-    title: 'wall_1_tonnage',
+    img: 'images/Chair.jpg',
+    title: 'chair',
     key: '0001',
-    urn:'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L3dhbGxfMV90b25uYWdlLmYzZA'
+    urn:'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6ZnVybml0dXJlL0Z1cm5pdHVyZV9DaGFpcnMtU3Rvb2xzLUJlbmNoZXNfQUJBLVNrb2xfQ2hhaXItRmFubnktU0gtMzgtY20uZmJ4'
   },
   {
-    img: 'images/wall-ac-unit-two.png',
-    title: 'Wall type',
+    img: 'images/white_board.jpg',
+    title: 'white_board',
     key: '0002',
-    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L3dhbGwtdHlwZS12NC5mM2Q'
+    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6ZnVybml0dXJlL0Z1cm5pdHVyZV9PdGhlcl9BYnN0cmFjdGFfRHJhZnQuZmJ4'
   },
   {
-    img: 'images/floor-ac-unit.png',
-    title: 'Floor-Exposed-1_Tonnage',
+    img: 'images/Table.jpg',
+    title: 'Table',
     key: '0003',
-    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L0Zsb29yLUV4cG9zZWQtMV9Ub25uYWdlLmYzZA'
+    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6ZnVybml0dXJlL0Z1cm5pdHVyZV9UYWJsZXNfQUJBLVNrb2xfVGFibGUtTWFyY3VzLTEwMC14LTEwMC1jbS1iaXJjaC5mYng='
   }
 ];
 

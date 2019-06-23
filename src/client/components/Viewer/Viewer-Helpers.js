@@ -256,14 +256,14 @@ function loadModel(viewables, lmvDoc, indexViewable) {
         viewer.loadModel(svfUrl, modelOptions, (model) => {
             
             switch (lmvDoc.myData.status.toString() === "success" ) {
-            case (lmvDoc.myData.guid.toString() === "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L3dhbGxfMV90b25uYWdlLmYzZA"):
+            case (lmvDoc.myData.guid.toString() === "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6cGxhY2V0ZXN0L2NlaWxpbmctY29ybmVyLmYzZA=="):
                 
                 panel = viewer.getExtension(ModelTransformerExtension).panel;
                 panel.setTransform(wallOneTransform());
                 panel.applyTransform(model);
                 modelName = "wall-ac-unit-one.f3d"    
                 break;
-            case (lmvDoc.myData.guid.toString() === "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L3dhbGwtdHlwZS12NC5mM2Q"):
+            case (lmvDoc.myData.guid.toString() === "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6cGxhY2V0ZXN0L3JhY2tfYXNzLmYzZA=="):
                 
                 panel = viewer.getExtension(ModelTransformerExtension).panel;
                 panel.setTransform(wallTwoTransform()); 
