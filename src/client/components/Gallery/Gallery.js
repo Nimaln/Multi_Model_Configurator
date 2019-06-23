@@ -26,19 +26,19 @@ import './Gallery.css';
 
 const tilesData = [
   {
-    img: 'public/images/Chair.jpg',
+    img: 'images/Chair.jpg',
     title: 'chair',
     key: '0001',
     urn:'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6ZnVybml0dXJlL0Z1cm5pdHVyZV9DaGFpcnMtU3Rvb2xzLUJlbmNoZXNfQUJBLVNrb2xfQ2hhaXItRmFubnktU0gtMzgtY20uZmJ4'
   },
   {
-    img: 'public/images/white_board.jpg',
+    img: 'images/white_board.jpg',
     title: 'white_board',
     key: '0002',
     urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6ZnVybml0dXJlL0Z1cm5pdHVyZV9PdGhlcl9BYnN0cmFjdGFfRHJhZnQuZmJ4'
   },
   {
-    img: 'public/images/Table.jpg',
+    img: 'images/Table.jpg',
     title: 'Table',
     key: '0003',
     urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6ZnVybml0dXJlL0Z1cm5pdHVyZV9UYWJsZXNfQUJBLVNrb2xfVGFibGUtTWFyY3VzLTEwMC14LTEwMC1jbS1iaXJjaC5mYng='
