@@ -42,7 +42,7 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-redux": "^5.0.1",
-    "react-scripts": "^0.7.0",
+    "react-scripts": "^5.0.1",
     "redux": "^3.6.0",
     "scroll-to": "0.0.2",
     "snapsvg": "^0.5.1",
